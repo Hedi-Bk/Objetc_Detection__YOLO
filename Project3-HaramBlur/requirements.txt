@@ -1,5 +1,0 @@
-opencv-python
-streamlit
-streamlit 
-cvzone
-mediapipe 
