@@ -1,13 +1,6 @@
 # Importations  
 import streamlit as st
-import cv2
-import cvzone
-import time
-import mediapipe as mp
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import time
+
 
 st.set_page_config(page_title="Haram Blur", page_icon="🙈",layout="centered")
 
