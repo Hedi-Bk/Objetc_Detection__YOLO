@@ -3,6 +3,7 @@ import cvzone
 import math
 from ultralytics import YOLO
 from sort import *
+import numpy as np
 
 
 def main():
@@ -23,7 +24,7 @@ def main():
 
     model =YOLO("D:\ASL\PROJETs\ML\Object_Detetction\Yolo-Weights\yolov8s.pt")
 
-    mask = cv2.imread("D:\ASL\PROJETs\ML\Object_Detetction\Project2-PeopleCounter\mask_people.png")
+    mask = cv2.imread("D:\ASL\PROJETs\ML\Object_Detetction\Project_2_PeopleCounter\mask_people.png")
     limitsDown =[(400,297),(673,297)]
     limitsUp =[(150,225),(365,225)]
 
