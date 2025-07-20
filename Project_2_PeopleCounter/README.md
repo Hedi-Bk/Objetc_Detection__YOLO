@@ -12,7 +12,7 @@ We aim to distinguish between **ascending** and **descending** people using vide
 
 ### Demo 👇
 
-![Demo](./Demo.gif)
+![Demo](../DemoPeople.gif)
 
 ### 🔍 Problem Statement
 
